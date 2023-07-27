@@ -16,4 +16,4 @@ e.g. `print(findHighestVal([-10, -5, -15, -3, 1, 6, 9]))` would output `9`
 # Q3:
 Create a calculator in code with full normal calculator operations and at least 1 scientific operation (square root is rather simple so maybe choose that)
 
-The calculator should ask the user for input and what kind of operation it wants to do based on the symbol e.g. `+ for add` `sqrt for square root`
+The calculator should ask the user for input values and what kind of operation it wants to do based on the operations symbol or short word e.g. `+ for add` `sqrt for square root`
